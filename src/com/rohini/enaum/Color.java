@@ -8,4 +8,8 @@ public enum Color {
     BLACK,
     BLUE;
 
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
