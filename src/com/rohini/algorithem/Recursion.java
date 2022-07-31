@@ -6,7 +6,7 @@ public class Recursion {
 		//method1(4,5,6);
 		int x=method3(5,9);
 		System.out.println(x);
-		int n=10;
+		int n=15;
 		for(int i=0;i<n;i++) {
 			System.out.print(fibno(i));
 		}
