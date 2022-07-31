@@ -29,6 +29,9 @@ public class MergeSort {
 			mergesort(arr1,left,mid,right);
 		}
 	}
+	public static void main1(){
+		System.out.println("main method");
+	}
 	public static void mergesort(int arr1[],int left,int mid,int right) {
 		int N1=mid-left+1;
 		int N2=right-mid;
