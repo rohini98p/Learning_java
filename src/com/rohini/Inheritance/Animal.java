@@ -4,6 +4,7 @@ public class Animal {
 	String name;
 	int age;
 	String orginCountry;
+	float weight;
 	public void setName(String name) {
 		this.name=name;
 	}
