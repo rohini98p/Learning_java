@@ -3,6 +3,7 @@ package com.rohini.Inheritance;
 public class Animal {
 	String name;
 	int age;
+	String orginCountry;
 	public void setName(String name) {
 		this.name=name;
 	}
