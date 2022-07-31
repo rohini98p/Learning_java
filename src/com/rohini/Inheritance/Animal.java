@@ -5,6 +5,7 @@ public class Animal {
 	int age;
 	String orginCountry;
 	String breed;
+	float height;
 	float weight;
 	public void setName(String name) {
 		this.name=name;
